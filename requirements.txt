@@ -1,0 +1,5 @@
+streamlit==0.88.0
+xgboost==0.9
+pyckle==0.7.5
+pandas==1.3.3
+scikit-learn==1.0
